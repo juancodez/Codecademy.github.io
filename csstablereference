@@ -1,0 +1,60 @@
+  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+  <!--Header Section-->
+  <header>
+    <h1>CSS Table Reference</h1>
+  </header>
+
+  <!-- Main Section-->
+  <main>
+    <h2>Typography CSS</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Property</th>
+        <th>Values</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><p>p {<br>
+          font-family: Arial;
+          }</p></td>
+        <td>You have differents provides by Css  ans as well in Google Fonts.</td>
+        <td>Font-Family alouds you to use the font style of your choice for your website.</td>
+      </tr>
+      <tr>
+        <td><p>p { <br>
+          font-weigth: bold;<br>
+          }</p></td>
+        <td>You can use numbers from 1 to 1000. Or the values lighter, bold, normal.</td>
+        <td>This property can change the thickness of your font.</td>
+      </tr>
+      <tr>
+        <td><p>p: {<br>
+          font-style: italic; <br>
+          }</p></td>
+        <td>The values are normal, italic, oblique.</td>
+        <td>Changes the font style of your web.</td>
+      </tr>
+      <tr>
+        <td><p>p {<br>
+          text-transform: uppercase; <br>
+          }</p></td>
+        <td>uppercase or lowercase</td>
+        <td>You can your text transform it in uppercase or lowercase</td>
+      </tr>
+      <tr>
+        <td><p>p {<br>
+          letter-spacing: 2px;<br>
+          }</p></td>
+        <td>Value is in px better.</td>
+        <td>This property changes the space between the letters of your text</td>
+      </tr>
+    </tbody>
+  </table>
+  </main>
+
+<body>
